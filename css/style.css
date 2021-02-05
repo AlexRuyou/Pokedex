@@ -1,0 +1,49 @@
+header, footer, div{
+  float: left;
+}
+header{
+  font-size: 46px;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  background: red;
+}
+footer{
+	height: 40px;
+  width: 100%;
+  background: red;
+}
+
+#container{
+  overflow: auto;
+  background: grey;
+}
+.pokemon{
+  width: 100%;
+  overflow: auto;
+  background: white;
+}
+.izquierda{
+  border: none;
+  overflow: auto;
+  height: 150px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  background: cyan;
+}
+.foto{
+  border: none;
+  overflow: auto;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+.derecha{
+  border: none;
+  overflow: auto;
+  height: 150px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  background: cyan;
+}
